@@ -7,10 +7,10 @@
 ## MultiTracking ( mp4 version ) 2x speed
 ![2](./IndexImage/2.gif)
 
-## MultiTracking - HoughLineTransform
+## MultiTracking - HoughLineTransform 2x speed
 ![4](./IndexImage/4.gif)
 
-## LineDetection - Tracking driving
+## LineDetection - Tracking driving 2x speed
 ![3](./IndexImage/3.gif)
 
 <hr>
